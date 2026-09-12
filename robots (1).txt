@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reimclue.com/sitemap.xml
